@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.cabeçalho{
+    background-image: linear-gradient(#383D58, #383D58);
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 10px 0;
+}
+.Cabeçalho-imagem{
+    width: 20%;
+}
+.A{
+    display: inline-block;
+    margin: 0 16px;
+    font-size: 18px;
+}
+.foto-2{
+    width: 25%;
+    padding: 0 40px;
+}
+.meio{
+    background-image: linear-gradient(#38415c, #4ebee8);
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
+}
+.meio-div{
+    width: 35%;
+}
+.titulo{
+    padding: 24px 0;
+}
